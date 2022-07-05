@@ -1,0 +1,13 @@
+.head {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+
+.table {
+    color: white;
+    background-color: #283d4a;
+}
+.tableElement {
+    color: white;
+}

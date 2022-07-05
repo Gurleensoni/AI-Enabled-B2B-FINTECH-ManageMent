@@ -1,0 +1,12 @@
+/*background-color: #282c34;*/
+.MenuItem {
+    background-color: #283d4a;
+    color: white;
+}
+.textItem {
+    color: white;
+}
+
+.textfieldLabel {
+    color: white !important;
+}
